@@ -57,8 +57,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgflip.com/gif/1mxoox
-
+https://github.com/Egxona/Globitek/blob/master/GlobitekDemo.gif
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
